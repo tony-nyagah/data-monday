@@ -18,6 +18,7 @@ openpyxl = "^3.1.2"
 plotly = "^5.22.0"
 geopy = "^2.4.1"
 nominatim = "^0.1"
+folium = "^0.16.0"
 
 [tool.poetry.group.dev.dependencies]
 black = "^24.4.2"
